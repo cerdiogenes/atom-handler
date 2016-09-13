@@ -1,4 +1,4 @@
-subl-handler
+atom-handler
 ============
 
 Setup and handle atom:// protocol to open them in Atom on Linux system
